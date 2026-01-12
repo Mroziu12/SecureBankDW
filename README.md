@@ -24,11 +24,6 @@ Technologies
 - Visual Studio 2022 with __SQL Server Data Tools (SSDT)__
 - CSV, OLE DB providers
 
-Select CV bullet points (copy/paste)
-- Designed and implemented a data warehouse for a banking domain: star schema, ETL pipelines (SSIS) with SCD Type 2 and an OLAP cube (SSAS) with MDX and KPIs.
-- Developed SSIS packages to integrate CSV and OLTP data, implementing data enrichment, deduplication and history tracking.
-- Created SSAS cube with aggregated measures and business KPIs to support executive reporting and risk monitoring.
-
 Notable implementation details
 - SCD Type 2 used to preserve history for dimensions (Customer / Employee).
 - MDX members include aggregated business metrics: Number of Granted Loans, Number of Defaulted Loans, Average Loan Amount, Average Risk Score.

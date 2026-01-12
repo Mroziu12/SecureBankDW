@@ -34,8 +34,3 @@ Notable implementation details
 - MDX members include aggregated business metrics: Number of Granted Loans, Number of Defaulted Loans, Average Loan Amount, Average Risk Score.
 - Some SSIS components perform per-row updates via OLE DB Command; for high-volume production scenarios these should be replaced with set-based operations (MERGE).
 
-Repository
-- GitHub: https://github.com/Mroziu12/SecureBankDW
-- Local clone (example): C:\Users\mmroz\OneDrive\Desktop\2Studies\PG\4sem\DW\DWSecureBankProject2 (branch: master)
-
-If you want, I can generate a one‑line project summary for the top of your CV or a 2–3 sentence elevator pitch tuned for job applications.

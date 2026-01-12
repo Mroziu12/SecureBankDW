@@ -1,4 +1,4 @@
-# SecureBankDW — Data Warehouse Project (CV-ready summary)
+# SecureBankDW — Data Warehouse Project
 
 Project summary
 - End-to-end data warehouse for a sample banking system: relational staging, ETL pipelines, and an OLAP cube for analytics.
